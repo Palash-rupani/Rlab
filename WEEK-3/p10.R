@@ -6,4 +6,4 @@ m<-matrix(1:4,nrow=2)
 print(det(m))
 #inverse of a matrix 
 m1<-matrix(c(2,5,2,1,2,3,4,2,1),ncol=3)
-print(solve(m1))
+print(solve(m1)) 

@@ -1,9 +1,9 @@
 # Week 2: Experiments on vector Arithmatic operations 
 #q6)program to   perfrom logical subseting of a vector 
-v1=1:20
+v1=1:5
 #logical subsetiing
-v1>5
+print(v1>2)
 # more logical subsetting
-v1<20
+print(v1<3)
 #values
-v1[v1<5]
+print(v1[v1<3])

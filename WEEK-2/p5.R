@@ -2,10 +2,10 @@
 #q5 ) program to acess elements of a vector using index positons 
 v1=1:20
 #first element
-v1[0]
+print(v1[1])
 #slicing 
-v1[4:11]
+print(v1[4:11])
 #last elemnt
-v1[19]
+print(v1[19])
 
 

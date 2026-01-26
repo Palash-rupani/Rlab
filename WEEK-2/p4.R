@@ -4,10 +4,10 @@
 v1=1:10
 v1
 #sum
-sum(v1)
+print(sum(v1))
 #mean
-mean(v1)
+print(mean(v1))
 #maximum
-max(v1)
+print(max(v1))
 #minimum
-min(v1)
+print(min(v1))

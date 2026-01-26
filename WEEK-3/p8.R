@@ -3,7 +3,7 @@
 
 m<-matrix(1:6,nrow=2)
 
-#access sepecific elemnt 
+#access specific elemnt 
 print(m[2,3])
 
 #acess entier 1st row

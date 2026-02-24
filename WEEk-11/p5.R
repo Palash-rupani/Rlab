@@ -1,0 +1,5 @@
+a=as.numeric(readline( "enter decimal numbers"))
+print(round(a))
+print(floor(a))
+print(ceiling(a))
+print(trunc(a))

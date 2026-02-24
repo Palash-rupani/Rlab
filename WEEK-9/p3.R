@@ -1,4 +1,4 @@
-lst=list(10,20,30,'a','b','c',TRUE,FALSE)
+lst=list(10,'a',FALSE)
 for(i in lst){
   print(i)
 }

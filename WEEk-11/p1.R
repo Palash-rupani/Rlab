@@ -1,0 +1,8 @@
+a=as.integer(readline("enter number 1"))
+b=as.integer(readline("enter number 2"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%/%b)
+print(a^b)

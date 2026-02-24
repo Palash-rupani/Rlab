@@ -1,0 +1,7 @@
+v1=c(10,20,30,40)
+print(sum(v1))
+print(mean(v1))
+print(median(v1))
+print(min(v1))
+print(max(v1))
+print(sd(v1))
